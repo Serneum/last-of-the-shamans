@@ -3,7 +3,6 @@ A Trophy Dark incursion, utilizing archetypes from Emberwind.
 ---
 
 ## Notes
-
 - Allow players to create their characters. They need names, a class, 3-4 things they are good at based on the class and their background  
 - Allow one Ritual for free  
 - Give a hint to the theme. Weaknesses will include fire, light, silver, blades, etc
@@ -32,10 +31,10 @@ See [Trophy Dark - Emberwind Theme](https://github.com/Serneum/emberwind-trophy-
 
 ## Sets
 
-- [Camp]()
-- [The Forest]()
-- [The Clearing]()
-- [The Cabin]()
+- [Camp](Sets/Cabin.md)
+- [The Forest](Sets/The%20Forest.md)
+- [The Clearing](Sets/The%20Clearing.md)
+- [The Cabin](Sets/The%20Cabin.md)
 
 ### Timer
 - Something happens every D4 rounds
