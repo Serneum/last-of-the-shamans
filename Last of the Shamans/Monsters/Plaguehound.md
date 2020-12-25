@@ -1,5 +1,5 @@
-# Shadow Hound
-A canine made out of shadows. They become corporeal when they attack their prey. Excellent trackers.
+# Bloodhound
+A canine often found in packs. Excellent trackers. A sickly aura seems to follow them.
 
 ### Stats
 **Endurance**: 7  

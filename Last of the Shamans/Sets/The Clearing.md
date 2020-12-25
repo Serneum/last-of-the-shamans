@@ -19,7 +19,7 @@ As you exit the forest, you stand at the top of a hill. The hill slopes down int
 - **The Outhouse** - The door is locked. Groans can be heard coming from inside.
 
 ## Traps
-- If the players did not alert any [hounds](../Monsters/Shadow%20Hound.md) in ***[The Forest](The%20Forest.md)***, the [hounds](../Monsters/Shadow%20Hound.md) will pick up their scent and appear in ***The Clearing***
+- If the players did not alert any [hounds](../Monsters/Plaguehound.md) in ***[The Forest](The%20Forest.md)***, the [hounds](../Monsters/Plaguehound.md) will pick up their scent and appear in ***The Clearing***
 - Inside of the outhouse is a ***[walker](../Monsters/Walker.md)***
 - If the players aproach the pond, they will encounter a ***crawling [walker](../Monsters/Walker.md)***
 
@@ -28,4 +28,4 @@ As you exit the forest, you stand at the top of a hill. The hill slopes down int
 
 ## Monsters
 - [Walker](../Monsters/Walker.md)
-- [Shadow Hound](../Monsters/Shadow%20Hound.md)
+- [Plaguehound](../Monsters/Plaguehound.md)

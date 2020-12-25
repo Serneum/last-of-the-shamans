@@ -1,5 +1,5 @@
-# Swarm of Bats
-A swarm of bats, working for the powers of darkness. They will swoop down and attack any who cross their paths.
+# Slaughterswarm
+A swarm of Slaughterfish, working for the powers of darkness. They will swoop down and attack any who cross their paths.
 
 ### Stats
 **Endurance**: 7  
