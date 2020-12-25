@@ -1,7 +1,7 @@
 # The Forest
 
 ## Goal
-Make your way through the forest. Find ***[The Clearing](The%20Clearing/README.md)***
+Make your way through the forest. Find ***[The Clearing](The%20Clearing.md)***
 
 ## Overview
 It's a forest. Let the players guide their exploration. Throw in some road blocks as needed, but allow them to come up with solutions. Ex: There's a river blocking the way, perhaps they find a downed tree to help cross. Hopefully they don't fall.

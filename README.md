@@ -30,7 +30,7 @@ See [Trophy Dark - Emberwind Theme](https://github.com/Serneum/emberwind-trophy-
 
 ## Sets
 
-- [Camp](Sets/Cabin.md)
+- [Camp](Sets/Camp.md)
 - [The Forest](Sets/The%20Forest.md)
 - [The Clearing](Sets/The%20Clearing.md)
 - [The Cabin](Sets/The%20Cabin.md)
