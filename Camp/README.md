@@ -1,5 +1,4 @@
 # Camp
----
 
 ## Goal
 - Find equipment, save who you can
@@ -31,31 +30,31 @@ You awaken near the campfire in the middle of the night. Something seems wrong, 
 ## Monsters
 
 ### Ghoul  
-> Loping, emaciated humanoids with rows of razor-sharp teeth, claw-like hands and feet, and yellow, feral eyes; grave stench  
->
-> **Endurance**: 8  
-> **Habits**:
-> - Slavering over a piece of rotten flesh
-> - Clinging to a wall, silent
-> - Hanging from a ceiling, eyes shining in the dark
-> - Cracking a bone between its teeth
-> - Making clicking vocalizations to other ghouls
-> - Reared back, ready to lunge
->
-> **Defenses**: Sever Limb - The ghoul’s teeth can quickly cleave away any extremity that gets caught in its mouth  
-> **Weakness**: Holy symbols  
+Loping, emaciated humanoids with rows of razor-sharp teeth, claw-like hands and feet, and yellow, feral eyes; grave stench  
+
+**Endurance**: 8  
+**Habits**:
+- Slavering over a piece of rotten flesh
+- Clinging to a wall, silent
+- Hanging from a ceiling, eyes shining in the dark
+- Cracking a bone between its teeth
+- Making clicking vocalizations to other ghouls
+- Reared back, ready to lunge
+
+**Defenses**: Sever Limb - The ghoul’s teeth can quickly cleave away any extremity that gets caught in its mouth  
+**Weakness**: Holy symbols  
 
 ### Walker
-> A walking corpse, its flesh rotting right off of its body. They are slow, but often come in groups making them much harder to deal with.
->
-> **Endurance**: 7  
-> **Habits**:
-> - Standing in place, unmoving
-> - Groaning as if trying to communicate
-> - Knelt down, eating the remains of what was a person
-> - Lumbering around with no clear goal
-> - Attacking with a hatred for life
-> - Seeking a missing limb
->
-> **Defenses**: None  
-> **Weakness**: Fire, Bladed weapons
+A walking corpse, its flesh rotting right off of its body. They are slow, but often come in groups making them much harder to deal with.
+
+**Endurance**: 7  
+**Habits**:
+- Standing in place, unmoving
+- Groaning as if trying to communicate
+- Knelt down, eating the remains of what was a person
+- Lumbering around with no clear goal
+- Attacking with a hatred for life
+- Seeking a missing limb
+
+**Defenses**: None  
+**Weakness**: Fire, Bladed weapons
