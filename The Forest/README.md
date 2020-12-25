@@ -25,7 +25,7 @@ It's a forest. Let the players guide their exploration. Throw in some road block
 - The cave contains a small book, partially charred. If the players inspect it, they can learn the Kindle ritual at the cost of 1 Panic.
 
 ## Monsters
-### Swarm of Bats**
+### Swarm of Bats
 A swarm of bats, working for the powers of darkness. They will swoop down and attack any who cross their paths.
 
 **Endurance**: 7  
