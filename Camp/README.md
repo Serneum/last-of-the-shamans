@@ -3,7 +3,7 @@
 ## Goal
 - Find equipment, save who you can
 - Learn about the Shamans. Ask the players to describe themselves.
-- Enter ***The Forest***
+- Enter [***The Forest***](../The%20Forest/README.md)
 
 ## Overview
 *Ask the players to describe their camp before beginning*  
@@ -21,8 +21,8 @@ You awaken near the campfire in the middle of the night. Something seems wrong, 
 - Other groups of shamans are around. They may join you.
 
 ## Traps
-- A ***ghoul*** is blocking the path to your tent. If the Shamans alert it to their presence, they will need to fight
-  - Depending on when the **ghoul** is encountered, it may have already killed someone. If **ghoul** is not found within D4 turns, have the party make a Ruin Roll.
+- A [***ghoul***](#ghoul) is blocking the path to your tent. If the Shamans alert it to their presence, they will need to fight
+  - Depending on when the [**ghoul**](#ghoul) is encountered, it may have already killed someone. If [**ghoul**](#ghoul) is not found within D4 turns, have the party make a Ruin Roll.
 
 ## Treasures
 - If the Shamans make it to their tent, they can pick up their own equipment. Otherwise, they must scavenge what they can. Allow the players to guide the scavenging.
