@@ -1,4 +1,5 @@
 # The Forest
+
 ## Goal
 Make your way through the forest. Find ***[The Clearing](The%20Clearing/README.md)***
 

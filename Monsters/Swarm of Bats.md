@@ -1,7 +1,7 @@
 # Swarm of Bats
 A swarm of bats, working for the powers of darkness. They will swoop down and attack any who cross their paths.
----
 
+### Stats
 **Endurance**: 7  
 **Defenses**: None  
 **Weakness**: Light, Fire  

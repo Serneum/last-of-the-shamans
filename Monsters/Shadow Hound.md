@@ -1,6 +1,7 @@
 # Shadow Hound
 A canine made out of shadows. They become corporeal when they attack their prey. Excellent trackers.
 
+### Stats
 **Endurance**: 7  
 **Defenses**: None  
 **Weakness**: Silver  
