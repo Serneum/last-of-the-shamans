@@ -17,8 +17,8 @@ It's a forest. Let the players guide their exploration. Throw in some road block
 
 ## Traps
 - Inside of the cave is a group of burnt corpses.
-- [Shadow hounds](#shadow_hound) stalk through the forest. Their keen senses will pick up any noise the Shamans make.
-- [Bats](#swarm_of_bats) sleep in the cave. If the players enter the cave for any reason, the bats will awaken.
+- [Shadow hounds](#shadow-hound) stalk through the forest. Their keen senses will pick up any noise the Shamans make.
+- [Bats](#swarm-of-bats) sleep in the cave. If the players enter the cave for any reason, the bats will awaken.
 
 ## Treasures
 - The shrine contains small religious icons. They can act as holy symbols if the players take them.
