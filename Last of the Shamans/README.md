@@ -5,7 +5,6 @@ A Trophy Dark incursion, utilizing archetypes from Emberwind.
 - Allow players to create their characters. They need names, a class, 3-4 things they are good at based on the class and their background  
 - Allow one Ritual for free  
 - Give a hint to the theme. Weaknesses will include fire, light, silver, blades, etc
-- Desperation  
 - Reduction rolls are when character attempts subtle acts of sabotage against other players.
 - Try to force the players to feel a desire to survive in a way that also pushes them to be faster than the others running from the bear, so-to-speak
 - Players should feel tension and the impending doom. Whatever is trying to get them is always close, and getting closer
