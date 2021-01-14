@@ -1,5 +1,5 @@
 # Last of the Shamans
-A Trophy Dark incursion, utilizing archetypes from Emberwind.
+A [Trophy Dark](https://trophyrpg.com/) incursion, utilizing archetypes from [Emberwind](https://emberwindgame.com).
 
 ## Notes
 - Allow players to create their characters. They need names, a class, 3-4 things they are good at based on the class and their background  
